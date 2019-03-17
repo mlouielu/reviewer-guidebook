@@ -16,7 +16,7 @@ Please login to PyCon TW website to review, and we **WILL NOT** reveal your iden
 - There will be no review activities during this stage.
 
 ### Second Round
-- The proposal that accept in first round will go into second round after the modify stage.
+- Proposals thoes were not directly accpeted from the first round will go into second round.
 - Please recheck the proposals that you've reviewed in first stage, and review the proposal **again** based on the modified version.
 - If you didn't update your vote and comment, or at least entering the same vote and comment, **your vote given in first round will not be taken into consideration**. (Except ones didn't change in the modification stage)
 - Now you can view **the information of the author**, and **other reviewers' votes and comments (anonymous)**
